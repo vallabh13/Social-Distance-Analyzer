@@ -13,5 +13,4 @@ Screenshots
 
 ![output1](https://user-images.githubusercontent.com/104682944/218308046-396bdf34-6b4c-486d-a9d2-c44068c43e10.gif)
 
-
-![output1](https://user-images.githubusercontent.com/104682944/218308046-396bdf34-6b4c-486d-a9d2-c44068c43e10.gif)
+![Screenshot (2)](https://user-images.githubusercontent.com/104682944/218308187-fcba59a8-e58d-487c-9ca2-8721f369d69a.png)
